@@ -2,3 +2,4 @@
 *.pid
 kafka*/
 vendor/
+go.sum
